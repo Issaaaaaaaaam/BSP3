@@ -1,0 +1,101 @@
+
+gross values with linear regression: 	Predicted R-squared 	= 0.7797282979179458
+					R-squared 		= 0.782
+					Adj R-squared 		= 0.781
+
+with the 30 iteration: 			min			= 0.7665523144965829
+					max			= 0.8028269158795125
+					mean 			= 0.7797391441771296
+					std			= 0.009001134401114164
+
+--------------------------------------------------------------------------------------------------
+
+Log_values with linear regression: 	Predicted R-squared 	= 0.885335827544602
+					R-squares 		= 0.888		
+					Adj R-squares 		= 0.888
+
+with the 30 iteration: 			min			= 0.8726676527808044
+					max			= 0.8935438631990753
+					mean 			= 0.8830270857724957
+					std			= 0.00639179288745294
+
+--------------------------------------------------------------------------------------------------
+
+gross values reduced with linear 	Predicted R-squared 	=  0.7798553134019632
+regression: 				R-squares 		=  0.781 	
+					Adj R-squares 		=  0.781
+
+with the 30 iteration: 			min			= 0.7671878471544182
+					max			= 0.7966316666100917
+					mean 			= 0.7809500984248432
+					std			= 0.008082050648597891
+
+--------------------------------------------------------------------------------------------------
+
+log values reduced with linear 		Predicted R-squared 	=  0.8853759364364571		
+regression: 				R-squares 		=  0.887
+					Adj R-squares 		=  0.887
+
+
+with the 30 iteration: 			min			= 0.8666525271842045
+					max			= 0.9063607799133397
+					mean 			= 0.8858658002176351
+					std			= 0.010627251527007624
+
+--------------------------------------------------------------------------------------------------
+
+gross values with gaussian family 	Predicted R-squared 	=  0.7107356132584344
+and inver_power link:			Pseudo R-squared	=  0.9164
+
+with the 30 iteration: 			min			= 0.6925739371955923
+					max			= 0.7203831321332419
+					mean 			= 0.7088660697266058
+					std			= 0.0074578889592919985
+
+--------------------------------------------------------------------------------------------------
+
+Log_values with gaussian family       	Predicted R-squared 	=  0.892491461096736
+and inver_power link:		   	Pseudo R-squared       	=  0.9998
+					F=476301.809347558,   p =  0.0
+
+with the 30 iteration: 			min			= 0.8767593635112512
+					max			= 0.9051090793612955
+					mean 			= 0.8932184201144348
+					std			= 0.007959196969854601
+
+--------------------------------------------------------------------------------------------------
+
+Log_values with gaussian family       	Predicted R-squared 	=  0.724132355178797 
+and inver_power link 4_:		Pseudo R-squared       	=  0.9287
+					Calculated R-squared	=  0.7254833184363793
+					F=3724.1762201328042, p =  0.0,
+
+
+with the 30 iteration: 			min			= 0.6944302307021342
+					max			= 0.743072816143205
+					mean 			= 0.7182210071680604
+					std			= 0.013000619143150087
+
+--------------------------------------------------------------------------------------------------
+
+Log_values with gaussian family       	Predicted R-squared 	=  0.0.783507583473727
+and inver_power link 4_3:		Pseudo R-squared       	=  0.9740
+					Calculated R-squared	=  0.785172906062715
+					F=2603.3531125254303, p =  0.0
+
+with the 30 iteration: 			min			= 0.7615287023931905
+					max			= 0.7994339103945113
+					mean 			= 0.782527680932376
+					std			= 0.009962307005037882
+
+--------------------------------------------------------------------------------------------------
+
+Log_values with gaussian family       	Predicted R-squared 	=  0.8365929219470477
+and inver_power link 4_3_2:		Pseudo R-squared       	=  0.9943
+					Calculated R-squared	=  0.8383276589927654
+					F=2472.0610365196644, p =  0.0
+
+with the 30 iteration: 			min			= 0.8124319453519887
+					max			= 0.8566132672705875
+					mean 			= 0.8383394620245115
+					std			= 0.010271069604075268
